@@ -9,7 +9,7 @@
 * 📚 [學業表現](https://github.com/willchiou1012/Portfolio/tree/main?tab=readme-ov-file#-%E5%AD%B8%E6%A5%AD%E8%A1%A8%E7%8F%BE)
 * 🔆 [語言能力](https://github.com/willchiou1012/Portfolio/blob/main/README.md#-%E8%AA%9E%E8%A8%80%E8%83%BD%E5%8A%9B)
 * 🔍 [專案執行](https://github.com/willchiou1012/Portfolio/blob/main/README.md#-%E5%B0%88%E6%A1%88%E5%9F%B7%E8%A1%8C)
-* 📈 [行銷管理]()
+* 📈 [行銷管理](https://github.com/willchiou1012/Portfolio/blob/main/README.md#-%E8%A1%8C%E9%8A%B7%E7%AE%A1%E7%90%86)
 * 💻 [程式語言]()
 ***
 ## 📚 學業表現 
