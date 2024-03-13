@@ -1,8 +1,9 @@
 # My Portfolio🎓  
 ###### 一場屬於自己的冒險
 ***
-#### 姓名：邱致瑋
+#### 姓名：邱致瑋 JHIH-WEI,CHIOU
 #### 目前就讀學校：國立臺灣師範大學 National Taiwan Normal University
+#### 證書與證明：
 ***
 # 目錄
 * 📚 學業表現
