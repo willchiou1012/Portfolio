@@ -10,7 +10,7 @@
 * 🔆 [語言能力](https://github.com/willchiou1012/Portfolio/blob/main/README.md#-%E8%AA%9E%E8%A8%80%E8%83%BD%E5%8A%9B)
 * 🔍 [專案執行](https://github.com/willchiou1012/Portfolio/blob/main/README.md#-%E5%B0%88%E6%A1%88%E5%9F%B7%E8%A1%8C)
 * 📈 [行銷管理](https://github.com/willchiou1012/Portfolio/blob/main/README.md#-%E8%A1%8C%E9%8A%B7%E7%AE%A1%E7%90%86)
-* 💻 [程式語言]()
+* 💻 [程式語言](https://github.com/willchiou1012/Portfolio/blob/main/README.md#-%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)
 ***
 ## 📚 學業表現 
 * #### 在校GPA
