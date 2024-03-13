@@ -6,8 +6,8 @@
 #### 證書與證明：
 ***
 # 目錄
-* 📚 [學業表現](https://github.com/willchiou1012/Portfolio/edit/main/README.md#-%E5%AD%B8%E6%A5%AD%E8%A1%A8%E7%8F%BE)
-* 🔆 語言能力
+* 📚 [學業表現](https://github.com/willchiou1012/Portfolio/tree/main?tab=readme-ov-file#-%E5%AD%B8%E6%A5%AD%E8%A1%A8%E7%8F%BE)
+* 🔆 [語言能力]()
 * 🔍 專案執行
 * 📈 行銷管理
 * 💻 程式語言
