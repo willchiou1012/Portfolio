@@ -62,7 +62,7 @@
 * #### 2022西瓜節 2021.11 ~ 2023.05.27
   財務部長
 > 負責財務部發文的文案。  
-> <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E8%A5%BF%E7%93%9C%E7%AF%80.jpg" width=30% height=30%>
+> <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E8%A5%BF%E7%93%9C%E7%AF%80.jpg" width=20% height=20%>
 
 ## 💻 程式語言
 * #### 
