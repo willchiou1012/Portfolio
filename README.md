@@ -3,7 +3,6 @@
 ***
 #### 姓名：邱致瑋 JHIH-WEI,CHIOU
 #### 目前就讀學校：國立臺灣師範大學 National Taiwan Normal University
-#### 證書與證明：https://1drv.ms/f/s!Ao8lsuvfvlzOkocZ-JKGK8oeEwbpNQ?e=XMZfsr
 ***
 # 目錄
 * 📚 [學業表現](https://github.com/willchiou1012/Portfolio/blob/main/README.md#-%E5%AD%B8%E6%A5%AD%E8%A1%A8%E7%8F%BE)
