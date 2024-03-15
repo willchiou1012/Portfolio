@@ -55,6 +55,9 @@
 * #### 2022臺師大五系聯合耶誕晚會 2022.10 ~ 2022.12.17
   公關 
 > 負責拉企業贊助與管理粉絲專業，利用粉絲專業的貼文與行銷吸引追蹤者，利用人數去當作拉贊助的籌碼，我們成功拉到了麒麟Bar啤酒、89Loop Sports暢飲酒吧、臺師大附近商家的贊助。  
+> 贊助  
+> <img src="" width=40% height=40%>  
+> 文案  
 > <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E8%80%B6%E6%99%9A.jpg" width=20% height=20%>
 * #### 2023臺師大科技營 2022.09 ~ 2023.02.04
   粉絲專業管理
@@ -63,7 +66,7 @@
 * #### 2022西瓜節 2021.11 ~ 2023.05.27
   財務部長
 > 負責財務部發文的文案。  
-> <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E8%A5%BF%E7%93%9C%E7%AF%80.jpg" width=10% height=10%>
+> <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E8%A5%BF%E7%93%9C%E7%AF%80.jpg" width=15% height=15%>
 
 ## 💻 程式語言
 * #### 
