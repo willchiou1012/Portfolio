@@ -59,6 +59,10 @@
   粉絲專業管理
 > 需要營運營隊的粉絲專業，增加曝光度並吸引高中職生報名，目標是擁有120個報名者，我們在對應時間發布貼文增加曝光度，也使用貼文內容的獨特性，最後吸引了148個人報名。  
 > <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E6%96%87%E6%A1%881.png" width=30% height=30%>
+* #### 2022西瓜節 2021.11 ~ 2023.05.27
+  財務部長
+> 負責財務部發文的文案。  
+> <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E6%96%87%E6%A1%881.png" width=30% height=30%>
 
 ## 💻 程式語言
 * #### 
