@@ -3,6 +3,8 @@
 ***
 #### 姓名：邱致瑋 Will CHIOU
 #### 目前就讀學校：國立臺灣師範大學 National Taiwan Normal University
+#### 目前就讀科系：科技應用與人力資源發展學系
+#### 年級：大學三年級
 ***
 # 目錄
 * 📚 [學業表現](https://github.com/willchiou1012/Portfolio/blob/main/README.md#-%E5%AD%B8%E6%A5%AD%E8%A1%A8%E7%8F%BE)
