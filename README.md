@@ -46,7 +46,8 @@
 > <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E8%AD%89%E6%98%8E_%E8%A5%BF%E7%93%9C%E7%AF%80.png" width=25% height=25%>  
 * #### 111學年度臺師大男二舍宿委會 2022.12 ~ 2023.06.30
   五樓樓長兼文書組
-> 管理五樓的環境與蒐集住宿生的反應並回報，在文書組負責進行會議記錄與整理會後資料。
+> 管理五樓的環境與蒐集住宿生的反應並回報，在文書組負責進行會議記錄與整理會後資料。  
+> <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E5%AE%BF%E5%A7%94%E6%9C%83.jpg" width=30% height=30%>
 * #### 臺師大114級科技應用與人力資源發展學系乙班 2021.09 ~ 現在
   班級代表
 > 擔任學生與系辦公室的溝通橋樑，負責宣布事項與統整班級相關資料。  
