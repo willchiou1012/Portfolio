@@ -75,6 +75,9 @@
 > <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E8%A5%BF%E7%93%9C%E7%AF%80.jpg" width=15% height=15%>
 
 ## 💻 程式語言
-* #### 
-  
-> 
+* #### Microsoft Technology Associate
+  Introduction to Programming using Python  
+> <img src="https://github.com/willchiou1012/Portfolio/blob/main/python%E8%AD%89%E6%98%8E.png" width=15% height=15%>
+* #### 中華民國程式資訊教育協會
+  基礎程式語言邏輯撰寫  
+> <img src="https://github.com/willchiou1012/Portfolio/blob/main/python%E8%AD%89%E6%98%8E.png" width=15% height=15%>
