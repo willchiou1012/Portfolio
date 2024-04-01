@@ -44,7 +44,7 @@
 > <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E6%9C%83%E9%95%B7.jpg" width=30% height=30%>
 * #### 2022臺師大西瓜節 2021.11 ~ 2023.05.27  
   財務部部長
-> 負責活動中的預算書統整與呈報給學生會，且在活動期間負責收取發票與收據進行報帳與核銷，在最後舉辦決算會統整收支。
+> 負責活動中的預算書統整與呈報給學生會，且在活動期間負責收取發票與收據進行報帳與核銷，在最後舉辦決算會統整收支。  
 > <img src="https://github.com/willchiou1012/Portfolio/blob/main/%E8%AD%89%E6%98%8E_%E8%A5%BF%E7%93%9C%E7%AF%80.png" width=25% height=25%>  
 * #### 111學年度臺師大男二舍宿委會 2022.12 ~ 2023.06.30
   五樓樓長兼文書組
