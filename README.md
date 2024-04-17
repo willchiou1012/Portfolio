@@ -62,3 +62,6 @@
 * #### 中華民國程式資訊教育協會
   基礎程式語言邏輯撰寫  
 > <img src="https://github.com/willchiou1012/Portfolio/blob/main/programming.png" width=15% height=15%>
+* #### 美國NYMA機器人競賽
+  小組賽第一名  
+> <img src="https://github.com/willchiou1012/Portfolio/blob/main/1713368612723.jpg" width=15% height=15%>
